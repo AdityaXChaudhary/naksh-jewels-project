@@ -76,8 +76,4 @@ naksh-jewels-project/
 Aditya Chaudhary Aspiring Full-Stack Developer
 
 
-### 🚀 To update your GitHub now:
-Run these commands in your terminal:
-1. `git add README.md`
-2. `git commit -m "Add premium README documentation"`
-3. `git push origin main`
+
